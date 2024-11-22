@@ -6,7 +6,13 @@ namespace GitExample3.Controllers
     {
         public IActionResult Index()
         {
-            return Content("Index-V1.1");
+            return Content("Index-V1.2");
+        }
+
+        public void Print()
+        {
+            //some code 
+            int x = 10;
         }
     }
 }
