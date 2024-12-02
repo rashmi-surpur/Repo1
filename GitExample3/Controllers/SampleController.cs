@@ -19,5 +19,11 @@ namespace GitExample3.Controllers
         {
 
         }
+
+
+        public void f2()
+        {
+
+        }
     }
 }
