@@ -14,5 +14,10 @@ namespace GitExample3.Controllers
             //some code 
             int x = 10;
         }
+
+        public void Display()
+        {
+
+        }
     }
 }
